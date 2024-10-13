@@ -1,0 +1,5 @@
+- function to build dfa with user input
+    # Having multiple in-code dfa customisations make code messy:
+    - Append each new dfa built this way to a dict of user-customised dfa objects:
+        - include name argument as dict key for easy reference
+        - 'etc...overwrite? etc.' prompt for naming duplicates 
