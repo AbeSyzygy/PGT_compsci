@@ -1,3 +1,6 @@
+- Store each DFA configuration in its own file?
+    - etc.py?
+    - option to load them?
 - function to build dfa with user input
     # Having multiple in-code dfa customisations make code messy:
     - Append each new dfa built this way to a dict of user-customised dfa objects:
